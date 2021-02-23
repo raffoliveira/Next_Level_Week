@@ -7,6 +7,8 @@ This application will be generate a NPS (Net Promoter Score).
 **Tecnologies:**
 
 * NodeJS
+* TypeScript
 * Visual Studio Node
 * Insomnia
 * Linux Terminal
+* SQLite
