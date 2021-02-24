@@ -12,3 +12,5 @@ This application will be generate a NPS (Net Promoter Score).
 * Insomnia
 * Linux Terminal
 * SQLite
+* Express
+* Jest
