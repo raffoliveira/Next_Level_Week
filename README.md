@@ -14,3 +14,6 @@ This application will be generate a NPS (Net Promoter Score).
 * SQLite
 * Express
 * Jest
+* Beekeeper Studio
+* NodeMailer
+* Handlebars
